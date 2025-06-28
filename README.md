@@ -1,6 +1,6 @@
 # Hi there, I'm [ABDELLAH]! 👋
 
-![Banner Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dweb%2Bdevelopment%2Bbanner&psig=AOvVaw0OqameORS4zo4ei8-lpVMW&ust=1751175793717000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDx2Ku0k44DFQAAAAAdAAAAABAL)
+![Banner Image](https://docs.google.com/document/d/1xLnBDxdiPXcKZbft7-Qyo2yY7gEMjguOs67bMkCzy0s/edit?usp=sharing)
 
 ## About Me 🚀
 
