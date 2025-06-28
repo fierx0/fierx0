@@ -1,6 +1,6 @@
 # Hi there, I'm [ABDELLAH]! 👋
 
-![Banner Image](https://docs.google.com/document/d/1xLnBDxdiPXcKZbft7-Qyo2yY7gEMjguOs67bMkCzy0s/edit?usp=sharing)
+![Banner Image](![glasses-lie-laptop-reflecting-light-from-screen-dark](https://github.com/user-attachments/assets/6b3686e4-3988-4018-81af-962b1e952fee)
 
 ## About Me 🚀
 
