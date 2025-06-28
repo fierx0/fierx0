@@ -7,8 +7,7 @@
 I'm a passionate **[back end devoloper]** with experience in **[python]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[more python]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[english arabe german franch python ]**
+- 🌍 Languages: **[english arabe german french python ]**
 - 📫 How to reach me: **[idmhand.abdellah97@gmail.com
 ]**
 - ⚡ Fun fact: **[love novels]**
